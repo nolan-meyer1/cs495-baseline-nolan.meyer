@@ -4,7 +4,7 @@
 
 # Did you code mostly in classes, internships, real jobs, or personal projects? Put example projects and what did you do.
 
-### I have done most of my coding in class related work. I have also done a few personal projects. One of my favorite projects I did was probably last semester when we made an application that supported hundreds of theme parks and let you see the wait time information as well as showing where they were on the map, and a bunch of other various features that you expect out of an app based around a theme park. 
+### I have done most of my coding in class related work. I have also done a few personal projects. One of my favorite projects I did was probably last semester when we made an application that supported hundreds of theme parks and let you see the wait time information as well as showing where they were on the map, and a bunch of other various features that you expect out of an app based around a theme park. I'm also working on a tool that will help integrate canvas with GitHub classroom for another proffesor that heavily utilizes things like GitHub actions to make it work. 
 
 # What was the largest program/system you’ve worked on?
 

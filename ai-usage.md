@@ -1,0 +1,1 @@
+I didn't use very much AI for this assignment. I used it one time to make sure that my structure for the .yml file was correct. I have used GitHub actions before in another personal project, but it has been a few months since I had messed with it so I forgot how the structure was. Other then that everything else was done by myself! 
