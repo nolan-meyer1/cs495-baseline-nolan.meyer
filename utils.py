@@ -11,7 +11,7 @@ def slugify(s):
 
     for character in s:
 
-        if ((character.isalpha() or character.isnumeric()) or (character == " " or character == " ")):
+        if (character.isalnum()) or (character == " "):
             if character == " ":
                 output += "-"
             elif not character.islower():
