@@ -18,4 +18,8 @@
 
 ### I feel least comfortable with front end things mostly because I just don't really have much experience around that kind of stuff but it's something I'm really interested in getting myself versed in! 
 
+# What is your concentration
+
+### I am currently a General concentration. 
+
 
