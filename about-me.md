@@ -16,6 +16,6 @@
 
 # What do you feel least comfortable doing?
 
-### I feel least comfortable with front end thigns mostly because I just don't have really much experience around that kind of stuff but it's something I'm really interested in getting myself versed in! 
+### I feel least comfortable with front end things mostly because I just don't really have much experience around that kind of stuff but it's something I'm really interested in getting myself versed in! 
 
 
